@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hayden.
-- 👀 I’m interested in Computers, video games, and reading.
-- 🌱 I’m currently attending Wayne State College for a degree in Computer Information Systems
+- 👀 I’m interested in computers, art, music, learning and reading.
+- 🌱 I’m currently attending Wayne State College for a degree in Computer Information Systems.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like art.
+- ⚡ Fun fact: Taking a moment to breath in tough situations can save you from a lot of stress.
 
 - I will add more fun and relevant facts as they come up...
 
