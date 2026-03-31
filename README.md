@@ -1,12 +1,34 @@
-- 👋 Hi, I’m Hayden.
-- 👀 I’m interested in computers, art, music, learning and reading.
-- 🌱 I’m currently attending Wayne State College for a degree in Computer Information Systems.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Taking a moment to breath in tough situations can save you from a lot of stress.
+# Hayden Schmidt
 
-- I will add more fun and relevant facts as they come up...
+- Occupation: Student at Wayne State College (Computer Information Systems)
+- Currently learning: *Cobol & Java*
+- Working on: *An android clock/alarm clock application*
 
-<!---
-Haschm05/Haschm05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Skills & Tools
+
+* Languages: *Python, Java, C++*
+* Tools: *Git, JetBrains, AWS*
+
+---
+
+## Projects
+
+Here are a few things I've worked on:
+
+*  **JavaFX_CalculatorApp** – A basic calculator written in Java with a GUI.
+*  **Python_StockAnalysisDashboard** – A program that allows you to imput stock tickers and time parameters, the program will output several graphs/data displays.
+*  **C_MathTutorGame** – A little game that will quiz you on addition, subtraciton, multiplication, and division problems. The game gets progressively harder. (My first project)
+
+---
+
+
+## Connect with Me
+
+* Email: *Haschm05@wsc.edu*
+* LinkedIn: *N/A*
+
+---
+
+*Thanks for checking out my profile!*
