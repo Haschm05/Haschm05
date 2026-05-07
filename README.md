@@ -18,7 +18,7 @@
 Here are a few things I've worked on:
 
 *  **JavaFX_CalculatorApp** – A basic calculator written in Java with a GUI.
-*  **Python_StockAnalysisDashboard** – A program that allows you to imput stock tickers and time parameters, the program will output several graphs/data displays.
+*  **Python_StockAnalysisDashboard** – A program that allows you to input stock tickers and time parameters, the program will output several graphs/data displays.
 *  **C_MathTutorGame** – A little game that will quiz you on addition, subtraciton, multiplication, and division problems. The game gets progressively harder. (My first project)
 
 ---
