@@ -1,14 +1,14 @@
 # Hayden Schmidt
 
 - Occupation: Student at Wayne State College (Computer Information Systems)
-- Currently learning: *Cobol & Java*
-- Working on: *An android clock/alarm clock application*
+- Currently learning: *HTML, SQL, & Python*
+- Working on: *A Cybersecurity portfolio project*
 
 ---
 
 ## Skills & Tools
 
-* Languages: *Python, Java, C++*
+* Languages: *Python, Java, C++, HTML, COBOL, SQL*
 * Tools: *Git, JetBrains, AWS*
 
 ---
