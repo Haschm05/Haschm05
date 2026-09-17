@@ -36,7 +36,7 @@ Here are a few things I've worked on:
 | Python_DataStructuresScripts | *Add | [ScriptsDS](https://github.com/Haschm05/Python_DataStructures_HighlightScripts) | Developing |
 | COBOL_RPT6000 | Generates a year-to-date sales report.| [RPT6000](https://github.com/Haschm05/COBOL_RPT6000) | Complete |
 | COBOL_SEQ3000 | Updates an existing Employee Master File by applying changes from a Personnel Transaction File. | [SEQ3000](https://github.com/Haschm05/COBOL_SEQ3000) | Complete |
-| SecurityTesting | *Add | [SecurityProject](https://github.com/Haschm05/SecurityTestingProject) | Planning |
+| SecurityTestingProject | *Add | [SecurityProject](https://github.com/Haschm05/SecurityTestingProject) | Planning |
 
 ---
 
