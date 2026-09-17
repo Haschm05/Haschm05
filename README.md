@@ -31,7 +31,7 @@ Here are a few things I've worked on:
 | Js_NotFlappyBird | Not a flappy bird script. | [NotFlappy](https://github.com/Haschm05/Js_NotFlappyBird) | Abandoned |
 | C++_MathTutorGame | A progressively harder game that will quiz you on addition, subtraciton, multiplication, and division problems. (My first Project) | [TutorGame](https://github.com/Haschm05/Cpp_MathTutorGame) | Complete |
 | Python_StockAnalysisDashboard  | A desktop application that allows users to visualize stock trends, compute statistics, and generate forecasts. | [StockDashboard](https://github.com/Haschm05/Python_StockAnalysisDashboard) | On Pause |
-| Python_ClockApplication | *Add | [ClockApp](https://github.com/Haschm05/ClockApplication_Android) | Planning |
+| Python_ClockApplication | *Add | [ClockApp](https://github.com/Haschm05/Python_ClockApplication) | Planning |
 | Python_AudioApplication | *Add | [AudioApp](https://github.com/Haschm05/Python_AudioApp) | Planning |
 | Python_DataStructuresScripts | *Add | [ScriptsDS](https://github.com/Haschm05/Python_DataStructures_HighlightScripts) | Developing |
 | COBOL_RPT6000 | Generates a year-to-date sales report.| [RPT6000](https://github.com/Haschm05/COBOL_RPT6000) | Complete |
