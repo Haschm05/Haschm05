@@ -23,7 +23,7 @@
 | Python_StockAnalysisDashboard  | A desktop application that allows users to visualize stock trends, compute statistics, and generate forecasts. | [StockDashboard](https://github.com/Haschm05/Python_StockAnalysisDashboard) | On Pause |
 | Python_ClockApplication | *Add | [ClockApp](https://github.com/Haschm05/Python_ClockApplication) | Planning |
 | Python_AudioApplication | *Add | [AudioApp](https://github.com/Haschm05/Python_AudioApp) | Planning |
-| Python_DataStructuresScripts | *Add | [ScriptsDS](https://github.com/Haschm05/Python_DataStructures_HighlightScripts) | Developing |
+| Python_DataStructuresScripts | Python Scripts developed as a part of Data Structures (CSC 310) To be split into individual repositories once the class is complete. | [ScriptsDS](https://github.com/Haschm05/Python_DataStructures_Scripts) | Developing |
 | COBOL_RPT6000 | Generates a year-to-date sales report.| [RPT6000](https://github.com/Haschm05/COBOL_RPT6000) | Complete |
 | COBOL_SEQ3000 | Updates an existing Employee Master File by applying changes from a Personnel Transaction File. | [SEQ3000](https://github.com/Haschm05/COBOL_SEQ3000) | Complete |
 | SecurityTestingProject | *Add | [SecurityProject](https://github.com/Haschm05/SecurityTestingProject) | Planning |
